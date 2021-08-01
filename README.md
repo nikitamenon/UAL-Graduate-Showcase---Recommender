@@ -15,6 +15,7 @@ Python 3.7
 pip install -r requirements.txt
 # How to Use
 Similarity: python run.py --type="similarity" --project_id=<VALID PROJECT ID>
+  
 Different: python run.py --type="different" --project_id=<VALID PROJECT ID>
   
   
