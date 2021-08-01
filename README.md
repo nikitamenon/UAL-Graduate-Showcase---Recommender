@@ -1,4 +1,4 @@
-# UAL-Graduate-Showcase---Recommender
+# UAL-Graduate-Showcase---Recommender (CLI-Driven)
 A recommender that allows viewers to get recommendations for similar projects based on the the projects they are viewing on the UAL Graduate showcase. This similarity is determined by the tags and themes assigned to each project. 
 # Motivation
 The project seeks to help viewers see a variety of projects that might interest them, and also helps students gain more visibility since the recommender pushes projects to the viewer based on similarity and without bias. 
